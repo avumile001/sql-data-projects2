@@ -29,6 +29,17 @@ Employee dataset containing:
 - Calculate average salary per department
 - Filter employees by department
 
+## Data Pipeline
+
+This project follows a simple data engineering pipeline:
+
+1. Raw data stored in CSV format
+2. Data loaded into a relational database
+3. SQL queries used to analyse and extract insights
+
+Flow:
+CSV → Database → SQL Queries → Insights
+
 ## Tools Used
 - MySQL / DBeaver 
 - GitHub for version control
