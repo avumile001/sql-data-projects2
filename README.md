@@ -1,4 +1,4 @@
-# Employee Data SQL Project
+# Data pipeline project
 
 ## Overview
 This project demonstrates basic data engineering and SQL skills by creating a database, loading data, and running analytical queries.
